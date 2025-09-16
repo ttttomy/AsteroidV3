@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Vidas
+comment1.params=
+comment1.target=void\ vidasTick()
+comment2.params=
+comment2.target=boolean\ isInvulnerable()
+comment3.params=
+comment3.target=boolean\ tryLoseLife()
+comment4.params=
+comment4.target=int\ getVidas()
+comment5.params=nuevasVidas
+comment5.target=void\ resetVidas(int)
+numComments=6

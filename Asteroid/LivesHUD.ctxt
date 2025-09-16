@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LivesHUD
+comment0.text=Muestra\ las\ VIDAS\ (navecitas)\ alineadas\ a\ la\ derecha\ del\ panel\ (esquina\ superior\ derecha).
+comment1.params=
+comment1.target=LivesHUD()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=Nave\ obtenerNave()
+comment4.params=vidas
+comment4.target=void\ redraw(int)
+numComments=5

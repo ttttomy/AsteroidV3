@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ScoreHUD
+comment0.text=Muestra\ el\ SCORE\ en\ la\ esquina\ superior\ izquierda\ (score.png\ +\ n\u00FAmero).
+comment1.params=
+comment1.target=ScoreHUD()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=score
+comment3.target=void\ redraw(int)
+numComments=4
